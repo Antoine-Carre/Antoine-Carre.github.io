@@ -7,7 +7,7 @@ color: #146f85
 
 body{
 font-size: 16px;
-text-align: right;
+vertical-align: middle;
 font-family: Helvetica, sans-serif;
 color: #333333;
 }
