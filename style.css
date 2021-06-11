@@ -7,12 +7,12 @@ color: #146f85
 
 body{
 font-size: 16px;
-text-align: justify;
 font-family: Helvetica, sans-serif;
 color: #333333;
 }
 
 body {
-	 background-image: url(symphony.png)
+	text-align: justify;
+	background-image: url(symphony.png)
 }
 
