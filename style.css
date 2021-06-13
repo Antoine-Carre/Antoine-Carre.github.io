@@ -17,5 +17,6 @@ body {
 
 img-container {
 	text-align: center;
+	display: block;
 }
 
