@@ -15,8 +15,11 @@ body {
 	background-image: url(symphony.png)
 }
 
-img-container {
-	text-align: center;
-	display: block;
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
 }
 
